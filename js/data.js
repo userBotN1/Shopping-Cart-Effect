@@ -1,0 +1,42 @@
+var goods = [
+  {
+    pic: "./assets/g1.png",
+    title: "Coconut Latte",
+    desc: `Escape to a tropical paradise with our Coconut Latte – a perfect blend of rich coffee and velvety coconut sweetness. Crafted for a delightful balance, each sip offers a refreshing and indulgent experience.`,
+    sellNumber: 200,
+    favorRate: 95,
+    price: 32,
+  },
+  {
+    pic: "./assets/g2.png",
+    title: "Raw Coconut Latte",
+    desc: `Indulge in the exotic allure of our Raw Coconut Latte, a beverage that transcends the ordinary and elevates your coffee experience to new heights. Immerse yourself in the velvety richness of carefully selected, premium coffee beans expertly blended with the pure, unadulterated essence of raw coconut.`,
+    sellNumber: 1000,
+    favorRate: 100,
+    price: 19.9,
+  },
+  {
+    pic: "./assets/g3.png",
+    title: "Black Iced Coffee",
+    desc: `Expertly brewed and chilled, this bold, refreshing blend delivers an intense flavor kick without any distractions—no sugar, no cream, just the unadulterated power of premium beans.`,
+    sellNumber: 200,
+    favorRate: 93,
+    price: 20.3,
+  },
+  {
+    pic: "./assets/g4.png",
+    title: "Blueberry Frappuccino",
+    desc: `Savor the perfect blend of plump, juicy blueberries and creamy goodness in every sip of our Blueberry Frappuccino. A refreshing burst of sweet and tart notes, this delightful treat is your go-to for a cool, satisfying experience.`,
+    sellNumber: 17,
+    favorRate: 80,
+    price: 38,
+  },
+  {
+    pic: "./assets/g5.png",
+    title: "Coconut Americano",
+    desc: `Immerse yourself in the velvety richness of fine Americano coffee. This unique blend offers a delightful fusion of robust coffee notes and the subtle sweetness of coconut, creating a truly luxurious and refreshing experience.`,
+    sellNumber: 50,
+    favorRate: 90,
+    price: 21.12,
+  },
+];
